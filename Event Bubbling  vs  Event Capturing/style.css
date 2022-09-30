@@ -1,0 +1,30 @@
+
+#one{
+    position : relative;
+    height:300px;
+    width:300px;
+    border:2px solid black;
+    background-color:purple;
+    color:white;
+    text-align: center;
+    font-size:25px;
+   
+  }
+  #two{
+    position:absolute;
+    height:200px;
+    width:200px;
+    top :50px;
+    left:45px;
+    border:2px solid black;
+    background-color:red;
+  }
+  #three{
+    position:absolute;
+    height:100px;
+    width:100px;
+    top: 50px;
+    left:45px;
+    border:2px solid black;
+    background-color:blue;
+  }
